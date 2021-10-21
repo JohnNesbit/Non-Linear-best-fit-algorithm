@@ -1,6 +1,6 @@
 # Non-Linear-best-fit-algorithm
 Takes in data and forms a best fit algorithm by meaning together the y cordinate of all of the points within a threshold value of its current refrence point and counting that
-as the y coordinate for its refrence x. It then slides +step x and does this again until a line is constructed all across the graph. I made this up so it doesnt work great but is 
+as the y coordinate for its refrence x. It then slides +step x and does this again until a line is constructed all across the graph. It is 
 good enough for some classification and extra/interpolation.
 
 Here are three examples of its work:
