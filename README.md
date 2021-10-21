@@ -10,7 +10,7 @@ Ex1 - The first example is of a random graph whose periphery's y is multiplied b
 ![](https://github.com/JohnNesbit/Non-Linear-best-fit-algorithm/blob/main/results/Figure_1.png?raw=true)
 
 
-Ex2 - The second example is of a graph where y is proportional to x and then inverley proportional after 5 x with random noise.
+Ex2 - The second example is of a graph where y is proportional to x and then inversely proportional after 5 x with random noise.
 
 ![](https://github.com/JohnNesbit/Non-Linear-best-fit-algorithm/blob/main/results/Figure_2.png?raw=true)
 
